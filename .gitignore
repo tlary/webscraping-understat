@@ -1,0 +1,7 @@
+*.db
+venvFootyScrape/
+*.csv
+FootyScrapes.md
+*.ipynb
+.idea/
+__pycache__/
